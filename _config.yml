@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Youwon Shin
 tagline:          'Resume'
-description:      'Hello :) Welcome to my page~! I hope it will be an opportunity for you to know about me.'
+description:      'Hello :) Welcome to my page! I hope it will be an opportunity for you to know about me.'
 url:              https://yuwon-shin.github.io
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
